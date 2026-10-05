@@ -22,8 +22,8 @@ El programa permite
 ## 🖼 Screenshots
 
 ### Initial Screen
-(https://github.com/joabAM/ATS_EXCEL_-public-/blob/main/images/ATS_to_Excel_1.png)
-/images/ATS_to_Excel_1.png
+
+![Initial Screen](./images//images/ATS_to_Excel_1.png)
 
 ---
 
