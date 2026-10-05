@@ -22,26 +22,26 @@ El programa permite
 ## 🖼 Screenshots
 
 ### Initial Screen
-
+(https://github.com/joabAM/ATS_EXCEL_-public-/blob/main/images/ATS_to_Excel_1.png)
 /images/ATS_to_Excel_1.png
 
 ---
 
 ### Processing
 
-/images/ATS_to_Excel_2.png
+./images/ATS_to_Excel_2.png
 
 ---
 
 ### Tools included
 
-/images/ATS_to_Excel_3.png
+./images/ATS_to_Excel_3.png
 
 ---
 
 ### Decode window
 
-/images/ATS_to_Excel_4.png
+./images/ATS_to_Excel_4.png
 
 ---
 
