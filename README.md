@@ -23,7 +23,7 @@ El programa permite
 
 ### Initial Screen
 
-![Initial Screen](./images//images/ATS_to_Excel_1.png)
+![Initial Screen](images/ATS_to_Excel_1.png)
 
 ---
 
