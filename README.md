@@ -29,19 +29,19 @@ El programa permite
 
 ### Processing
 
-./images/ATS_to_Excel_2.png
+![Processing](images/ATS_to_Excel_2.png)
 
 ---
 
 ### Tools included
 
-./images/ATS_to_Excel_3.png
+![Tools](images/ATS_to_Excel_3.png)
 
 ---
 
 ### Decode window
 
-./images/ATS_to_Excel_4.png
+![Decode](images/ATS_to_Excel_4.png)
 
 ---
 
