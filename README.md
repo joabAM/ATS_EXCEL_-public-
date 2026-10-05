@@ -85,6 +85,3 @@ Lima, Perú
 
 ---
 
-## 📄 Licencia
-
-Todos los derechos reservados.
